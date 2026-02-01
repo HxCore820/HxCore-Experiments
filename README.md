@@ -143,7 +143,7 @@ Repo này có thể chứa (nhưng không giới hạn) các loại nội dung s
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/HxCore-Experiments.git
+git clone https://github.com/HxCore820/HxCore-Experiments.git
 cd HxCore-Experiments
 
 # Duyệt qua các thư mục
